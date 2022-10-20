@@ -1,2 +1,3 @@
-section{display: inline-block; margin:3em}
-img{margin: 3em; width: 20em;}
+section{display: inline-block; margin:3em; }
+img{margin: 3em; width: 10em; border-top: 50em;}
+div{margin-top: 2em;}
